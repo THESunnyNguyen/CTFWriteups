@@ -4,6 +4,7 @@
 **Event:** Love at First Breach 2026 (TryHackMe)  
 **Category:** Web  
 **Challenge Author:** TryHackMe, munra, kohzmik
+
 **Writeup Author:** Sunny Nguyen  
 **Tools Used:** Browser tools, robots.txt, Gobuster  
 **Difficulty:** Easy  
