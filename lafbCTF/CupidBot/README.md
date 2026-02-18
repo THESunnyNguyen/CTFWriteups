@@ -3,7 +3,7 @@
 **Challenge:** CupidBot  
 **Event:** Love at First Breach 2026 (TryHackMe)  
 **Category:** Web  
-**Challenge Author:** TryHackMe, munra, kohzmik
+**Challenge Author:** TryHackMe, munra, h4sh3m00
 
 **Writeup Author:** Frhn.Isml  
 **Tools Used:** Browser tools, AI Agent interface  
